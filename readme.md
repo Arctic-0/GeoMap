@@ -1,8 +1,6 @@
 # GeoMap.js
 
 
-DEMO: <http://xbingoz.com/public/pages/geomap.html>
-
 
 ## 概述
 
@@ -16,7 +14,6 @@ DEMO: <http://xbingoz.com/public/pages/geomap.html>
 
 ## 文件结构
 
-	json/				//地图数据 ( 省份地图数据来自dataV.js项目 )
 	old/				//旧版本备份
 	src/				//开发文件
 	geomap-x.x.x.js		//发布文件
